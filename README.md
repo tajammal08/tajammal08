@@ -6,7 +6,7 @@
 
 ### 🏆 **About Me**
 
-I'm a software engineer who loves turning complex problems into simple, efficient solutions. With 6+ years of experience across front-end and back-end development, I enjoy crafting user-centric applications. Outside of coding, I'm a part-time filmmaker and a full-time tech nerd always exploring the latest trends in tech!
+I'm a software engineer who loves turning complex problems into simple, efficient solutions. With 5 years of experience across front-end and back-end development, I enjoy crafting user-centric applications. Outside of coding, I'm a part-time filmmaker and a full-time tech nerd always exploring the latest trends in tech!
 
 - 💻 Specializing in **Full Stack Development** 
 - 🎬 Passionate about **Creative Filmmaking**
